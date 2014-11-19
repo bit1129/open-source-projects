@@ -35,4 +35,4 @@ dist-maven directory are deployed to the central repository after the release
 is voted on and approved by the Apache ZooKeeper PMC:
 
   https://repo1.maven.org/maven2/org/apache/zookeeper/zookeeper/
-test
+test2
